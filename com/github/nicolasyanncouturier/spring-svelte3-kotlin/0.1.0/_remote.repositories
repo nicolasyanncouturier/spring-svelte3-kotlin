@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Sep 19 14:16:17 CEST 2021
+spring-svelte3-kotlin-0.1.0.jar>=
+spring-svelte3-kotlin-0.1.0.jar>com.github.nicolasyanncouturier.spring-svelte3-kotlin=
+spring-svelte3-kotlin-0.1.0.pom>=
+spring-svelte3-kotlin-0.1.0.pom>com.github.nicolasyanncouturier.spring-svelte3-kotlin=
+spring-svelte3-kotlin-0.1.0-sources.jar>=
